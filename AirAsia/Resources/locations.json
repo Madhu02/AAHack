@@ -1,0 +1,14 @@
+{
+	"flightsData": [{
+		"Locations": [{
+			"CityCode": "BNG",
+			"CityName": "Bengaluru"
+		}, {
+			"CityCode": "Hyd",
+			"CityName": "Hyderabad"
+		}, {
+			"CityCode": "Chd",
+			"CityName": "Chandigarh"
+		}]
+	}]
+}
